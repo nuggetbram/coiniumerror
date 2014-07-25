@@ -24,7 +24,7 @@
     # website configuration
 	"website": {
 		"enabled": true,
-		"bind": "whrl.hashcookie.org",
+		"bind": "127.0.0.1",
 		"port": 8080,
         "stats": {
             "updateInterval": 60,
